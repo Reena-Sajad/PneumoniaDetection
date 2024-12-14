@@ -20,6 +20,7 @@ This project aims to detect pneumonia in chest X-ray images using a deep learnin
 3. [Results and Analysis](#results-and-analysis)
 4. [Conclusion and Reflection](#conclusion-and-reflection)
 5. [References](#references)
+6. [How to run this project](#how-to-run-this-project)
 
 ---
 
@@ -100,3 +101,17 @@ This project highlights the potential of AI in medical imaging for timely and ac
 3. Rajpurkar, P., et al. (2017). CheXNet: Radiologist-Level Pneumonia Detection. [arXiv:1711.05225](https://arxiv.org/abs/1711.05225)
 4. Selvaraju, R. R., et al. (2017). Grad-CAM: Visual Explanations. International Journal of Computer Vision.
 5. World Health Organization (WHO): [Pneumonia Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/pneumonia)
+
+---
+
+## How to run this project
+
+Have the following folder structure:
+`/dataset` - data will be extracted here
+
+`/models` - the best model will be stored here
+
+`/PneumoniaDetection.ipynb`
+
+Install all the required packages to run the necessary libraries and then run the PneumoniaDetection.ipynb file
+
