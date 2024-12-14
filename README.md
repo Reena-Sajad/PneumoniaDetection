@@ -107,6 +107,7 @@ This project highlights the potential of AI in medical imaging for timely and ac
 ## How to run this project
 
 Have the following folder structure:
+
 `/dataset` - data will be extracted here
 
 `/models` - the best model will be stored here
